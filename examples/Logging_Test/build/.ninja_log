@@ -1,0 +1,7 @@
+# ninja log v6
+213	405	7616813021077609	LoggingTest.exe	c8dab8d5ab3e3cbc
+5	211	7616813018977551	CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj	69eb56e83e196f3f
+5	230	7616819876980188	build.ninja	9309c7b48dd98402
+33	128	7616819877704317	CMakeFiles/LoggingTest.dir/include/circlog.cpp.obj	4571836448ec0dd7
+28	164	7616819877704317	CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj	e3075ec90cac7f9d
+165	314	7616819879079931	LoggingTest.exe	ec93b87a1b379cd7
