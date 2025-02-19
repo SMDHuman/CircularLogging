@@ -6,4 +6,5 @@ include_directories(include)
 add_executable(LoggingTest 
   LoggingTest.cpp
   include/circlog.cpp
+  include/nlohmann/json.hpp
 )
