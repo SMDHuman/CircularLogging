@@ -5,6 +5,8 @@
 CircLog cl;
 
 int main(){
-    cl.log("deneme");
+    cl.log("Code Started");
+    
+    cl.log("Code End");
     return 0;
 }

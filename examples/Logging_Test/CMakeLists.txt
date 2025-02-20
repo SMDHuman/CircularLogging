@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
 project(LoggingTest)
 
-include_directories(../../include)
+include_directories(include)
 
 add_executable(LoggingTest 
   LoggingTest.cpp
-  ../../include/circlog.cpp
-  ../../include/nlohmann/json.hpp
+  include/circlog.cpp
+  include/nlohmann/json.hpp
 )
