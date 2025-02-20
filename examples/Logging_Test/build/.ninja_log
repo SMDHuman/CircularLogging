@@ -1,7 +1,0 @@
-# ninja log v6
-5028	5482	7617587064000967	LoggingTest.exe	e9171816f187c6d9
-39	5428	7617582849762642	CMakeFiles/LoggingTest.dir/include/circlog.cpp.obj	4571836448ec0dd7
-47	1138	7617587014186706	CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj	192f53fc704be4ed
-41	364	7617587165196844	build.ninja	9309c7b48dd98402
-55	5027	7617587014276276	CMakeFiles/LoggingTest.dir/C_/Users/scrap/Documents/GitRepo/CircularLogging/include/circlog.cpp.obj	10da15c9b4e10c0
-7	296	7617587165196844	build.ninja	9309c7b48dd98402
