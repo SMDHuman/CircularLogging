@@ -5,6 +5,6 @@
 CircLog cl;
 
 int main(){
-    cl.log("deneme", "LOG");
+    cl.log("deneme");
     return 0;
 }

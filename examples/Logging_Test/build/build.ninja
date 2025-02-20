@@ -46,15 +46,15 @@ build cmake_object_order_depends_target_LoggingTest: phony || .
 
 build CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj: CXX_COMPILER__LoggingTest_unscanned_ C$:/Users/scrap/Documents/GitRepo/CircularLogging/examples/Logging_Test/LoggingTest.cpp || cmake_object_order_depends_target_LoggingTest
   DEP_FILE = CMakeFiles\LoggingTest.dir\LoggingTest.cpp.obj.d
-  INCLUDES = -IC:/Users/scrap/Documents/GitRepo/CircularLogging/examples/Logging_Test/include
+  INCLUDES = -IC:/Users/scrap/Documents/GitRepo/CircularLogging/examples/Logging_Test/../../include
   OBJECT_DIR = CMakeFiles\LoggingTest.dir
   OBJECT_FILE_DIR = CMakeFiles\LoggingTest.dir
 
-build CMakeFiles/LoggingTest.dir/include/circlog.cpp.obj: CXX_COMPILER__LoggingTest_unscanned_ C$:/Users/scrap/Documents/GitRepo/CircularLogging/examples/Logging_Test/include/circlog.cpp || cmake_object_order_depends_target_LoggingTest
-  DEP_FILE = CMakeFiles\LoggingTest.dir\include\circlog.cpp.obj.d
-  INCLUDES = -IC:/Users/scrap/Documents/GitRepo/CircularLogging/examples/Logging_Test/include
+build CMakeFiles/LoggingTest.dir/C_/Users/scrap/Documents/GitRepo/CircularLogging/include/circlog.cpp.obj: CXX_COMPILER__LoggingTest_unscanned_ C$:/Users/scrap/Documents/GitRepo/CircularLogging/include/circlog.cpp || cmake_object_order_depends_target_LoggingTest
+  DEP_FILE = CMakeFiles\LoggingTest.dir\C_\Users\scrap\Documents\GitRepo\CircularLogging\include\circlog.cpp.obj.d
+  INCLUDES = -IC:/Users/scrap/Documents/GitRepo/CircularLogging/examples/Logging_Test/../../include
   OBJECT_DIR = CMakeFiles\LoggingTest.dir
-  OBJECT_FILE_DIR = CMakeFiles\LoggingTest.dir\include
+  OBJECT_FILE_DIR = CMakeFiles\LoggingTest.dir\C_\Users\scrap\Documents\GitRepo\CircularLogging\include
 
 
 # =============================================================================
@@ -64,7 +64,7 @@ build CMakeFiles/LoggingTest.dir/include/circlog.cpp.obj: CXX_COMPILER__LoggingT
 #############################################
 # Link the executable LoggingTest.exe
 
-build LoggingTest.exe: CXX_EXECUTABLE_LINKER__LoggingTest_ CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj CMakeFiles/LoggingTest.dir/include/circlog.cpp.obj
+build LoggingTest.exe: CXX_EXECUTABLE_LINKER__LoggingTest_ CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj CMakeFiles/LoggingTest.dir/C_/Users/scrap/Documents/GitRepo/CircularLogging/include/circlog.cpp.obj
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LoggingTest.dir
   POST_BUILD = cd .

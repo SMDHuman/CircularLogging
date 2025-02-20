@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\LoggingTest.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\LoggingTest.dir/objects.a @CMakeFiles\LoggingTest.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\LoggingTest.dir/objects.a -Wl,--no-whole-archive -o LoggingTest.exe -Wl,--out-implib,libLoggingTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LoggingTest.dir\linkLibs.rsp
