@@ -16,7 +16,9 @@ class CircLog{
   private:
     void load_config();
     void save_config();
-    time_t get_last_log_file_date();
+    void create_log_now();
+    time_t get_newest_log_file_date();
+    time_t get_oldest_log_file_date();
   public:
     CircLog(const char* log_type = "log");
     //void log(const char* Text, log_tags_e tag = MESSAGE);

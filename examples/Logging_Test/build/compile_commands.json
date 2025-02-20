@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/Tech/Projects/CircularLogging/examples/Logging_Test/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LoggingTest.dir/includes_CXX.rsp -g -o CMakeFiles\\LoggingTest.dir\\LoggingTest.cpp.obj -c E:\\Tech\\Projects\\CircularLogging\\examples\\Logging_Test\\LoggingTest.cpp",
+  "file": "E:/Tech/Projects/CircularLogging/examples/Logging_Test/LoggingTest.cpp",
+  "output": "CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj"
+},
+{
+  "directory": "E:/Tech/Projects/CircularLogging/examples/Logging_Test/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LoggingTest.dir/includes_CXX.rsp -g -o CMakeFiles\\LoggingTest.dir\\include\\circlog.cpp.obj -c E:\\Tech\\Projects\\CircularLogging\\examples\\Logging_Test\\include\\circlog.cpp",
+  "file": "E:/Tech/Projects/CircularLogging/examples/Logging_Test/include/circlog.cpp",
+  "output": "CMakeFiles/LoggingTest.dir/include/circlog.cpp.obj"
+}
+]
